@@ -89,7 +89,6 @@ const handleDownloadCV = () => {
                 >
                   <Github className="w-6 h-6" />
                 </a>
-                  
               </div>
             </div>
           </div>
@@ -100,7 +99,7 @@ const handleDownloadCV = () => {
               <div className="relative w-64 h-64 sm:w-80 sm:h-80 lg:w-96 lg:h-96 rounded-full bg-gradient-to-br from-blue-500/20 to-cyan-500/20 backdrop-blur-lg border-4 border-white/20 flex items-center justify-center overflow-hidden group hover:scale-105 transition-transform duration-500">
                 <div className="absolute inset-0 bg-gradient-to-br from-blue-600/30 to-cyan-600/30 opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                 <img
-                  src="/src/img/gemini-2.5-flash-image_a_surreal_and_vibrant_cinematic_photo_of_enerate_a_highly_realistic_real_photogr-0.jpg"
+                  src="/src/img/homerasm.jpg"
                   alt="Abdulatif Torajanov"
                   className="w-full h-full object-cover rounded-full"
                 />
